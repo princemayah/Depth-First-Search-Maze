@@ -1,4 +1,4 @@
-# Maze Generator
+# Depth-First Search Maze
 
 A C++ program that generates a maze using a randomized Prim's algorithm and connects neighboring cells using a depth-first search.
 
